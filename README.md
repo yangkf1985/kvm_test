@@ -5,5 +5,5 @@
 
 
 ### 方法
-使用python commands调用virsh命令创建后备镜像和虚拟机
-使用guestfish修改计算机
+- 使用python commands调用virsh命令创建后备镜像和虚拟机
+- 使用guestfish修改计算机
